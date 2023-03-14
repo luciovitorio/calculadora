@@ -1,1 +1,1 @@
-// alert("javascript OK!");
+alert("javascript OK!");
